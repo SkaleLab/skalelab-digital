@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# EDIT: replace with your real site address after publishing
+Sitemap: https://YOUR-USERNAME.github.io/skalelab-digital/sitemap.xml
