@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- EDIT: replace YOUR-USERNAME with your GitHub username (or your own domain later) -->
   <url>
-    <loc>https://YOUR-USERNAME.github.io/skalelab-digital/</loc>
+    <loc>https://skalelab.github.io/skalelab-digital/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
